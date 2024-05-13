@@ -16,7 +16,7 @@ Botão de excluir
 
 ![image](https://github.com/GabrielDRamos/GDGallery/assets/38692476/399e410e-d8d7-40a4-89d5-8383e5bbb38d)
 
-Lista após exclusão
+Lista após exclusão <br>
 ![image](https://github.com/GabrielDRamos/GDGallery/assets/38692476/8ddf519d-f0d0-4e67-87e6-2cd9a355bf24)
 
 
